@@ -1,4 +1,5 @@
 <?php
+//cambios efectuados para la realización del ejercicio 2.3
 /**
  * Programa de calculadora básica en php.
  *
